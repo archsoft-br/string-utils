@@ -1,2 +1,1 @@
-# string-utils
-String Utils
+# String Utils
